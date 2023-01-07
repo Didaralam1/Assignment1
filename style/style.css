@@ -4,7 +4,7 @@
 }
 /* ============= Header or Banner ============= */
 .banner {
-    background-image: url(../images/banner/banner3.png);
+    background-image: url("../images/banner/banner3.png");
     position: absolute;
     width: 1600px;
     height: 808px;
@@ -117,7 +117,7 @@ h5 {
 
 .gradient-img {
     position: absolute;
-    background-image: url(../images/watch.png);
+    background-image: url("../images/watch.png");
     width: 1140px;
     height: 300px;
 
